@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BrickyClimb</string>
+    <string name="play_button">Jouer</string>
+    <string name="settings_button">Options</string>
+    <string name="exit_button">Quitter</string>
+    <string name="title_activity_settings">Options</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="scores_button">Scores</string>
+    <string name="music_switch">Musique</string>
+    <string name="effects_switch">Effets</string>
+    <string name="rotation_radio_button">Rotation</string>
+    <string name="touch_radio_button">Toucher</string>
+    <string name="connection_button">Connexion</string>
+    <string name="calibration_button">Calibrer</string>
+    <string name="score">Score:</string>
+    <string name="controls_rotation">rotation</string>
+    <string name="controls_touch">Touch</string>
+    <string name="askUsername_text">Nom d\'utilisateur</string>
+    <string name="showScore_text">Votre score est </string>
+    <string name="save_button">Sauvegarder le score</string>
+    <string name="error_text">Erreur: Entrez votre pseudo</string>
+    <string name="highScore_text">Meilleur score:</string>
+    <string name="nbGame_text">Parties: </string>
+    <string name="resetScoresButton">Réinitialiser les scores</string>
+</resources>
